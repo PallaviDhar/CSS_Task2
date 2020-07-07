@@ -4,8 +4,11 @@ Designing a page of Campus{X}
 
 # Screenshots
 
-![2 1](https://user-images.githubusercontent.com/66560935/86626404-40de9880-bfe4-11ea-97b9-0a6ed723c2a3.png)
 
-![2 2](https://user-images.githubusercontent.com/66560935/86626408-42a85c00-bfe4-11ea-8b21-b556862056de.png)
+![2 4](https://user-images.githubusercontent.com/66560935/86720883-153ecb00-c043-11ea-9dcb-87588e8f835f.png)
 
-![2 3](https://user-images.githubusercontent.com/66560935/86626410-4340f280-bfe4-11ea-8b69-20d4c95ac72b.png)
+
+![2 5](https://user-images.githubusercontent.com/66560935/86720892-17a12500-c043-11ea-9cd4-e6917acada17.png)
+
+
+![2 6](https://user-images.githubusercontent.com/66560935/86720907-1a9c1580-c043-11ea-8461-914301385b9e.png)
